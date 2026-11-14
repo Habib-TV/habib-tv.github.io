@@ -8,11 +8,9 @@
   "updateType": "MINOR",
   "mandatory": false,
   "importantUpdateDeadline": null,
-  "releaseNotes": [
-    "First stable release of Habib TV Professional."
-  ],
-  "apkUrl": "https://github.com/Habib-TV/habibtv-downloads/releases/download/v1.0.0/Habib-TV-Professional-v1.0.apk",
+  "releaseNotes": "First stable release of Habib TV Professional.",
+  "apkUrl": "https://github.com/Habib-TV/habib-tv.github.io/releases/download/v1.0.0/Habib-TV-Professional-v1.0.apk",
   "sha256": "4bbdc776bb88fa63b8d056c030bb3a191eb30e6c1c525843860f1bb12a52bb50",
   "fileSizeBytes": 61323888,
-  "releasePageUrl": "https://github.com/Habib-TV/habibtv-downloads/releases/tag/v1.0.0"
+  "releasePageUrl": "https://github.com/Habib-TV/habib-tv.github.io/releases/tag/v1.0.0"
 }
