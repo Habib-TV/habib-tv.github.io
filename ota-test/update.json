@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 1,
+  "appName": "Habib TV Professional",
+  "packageName": "com.habibtv.app",
+  "latestVersion": "1.1",
+  "versionCode": 2,
+  "minimumSupportedVersionCode": 1,
+  "updateType": "MINOR",
+  "mandatory": false,
+  "importantUpdateDeadline": null,
+  "releaseNotes": "OTA test candidate version 1.1.",
+  "apkUrl": "https://github.com/Habib-TV/habib-tv.github.io/releases/download/ota-test-v1.1/HABIB.TV.Professional-ota-test-v2.apk",
+  "sha256": "1D961336E0B6DE65E91B388DD1376341A425DD1F36D2DBBC2FC02AB41BD066D1",
+  "fileSizeBytes": 61406344,
+  "releasePageUrl": "https://github.com/Habib-TV/habib-tv.github.io/releases/tag/ota-test-v1.1"
+}
